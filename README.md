@@ -47,16 +47,15 @@
   <i> Don't be a stranger! come and say Hi, let's connect and collaborate together.</i>
 
   <p align="center">
-</p>
+
   
+<p align="center">
+<h1> 🔍 My projects</h1>
 </p>
 
 
-<p  align="center">
-<img  width="400px" src="https://github-readme-stats.vercel.app/api?username=Angel777-ops&show_icons=true&theme=radical" alt="yassine-bennkhay" /> 
-<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Angel777-ops&theme=radical">
-</p>
-<img  src="https://activity-graph.herokuapp.com/graph?username=Angel777-ops&bg_color=141321&color=E5289E&line=DA5B0B&point=E1E8EB">
+
+
 
 
 
