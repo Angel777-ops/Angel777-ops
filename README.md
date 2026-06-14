@@ -56,6 +56,10 @@
 
 One-Frequency
  https://github.com/Angel777-ops/One-Frecuency.git
+ 
+ Description: This project is a website for searching for songs by a specific artist. Using the AudioDB API, you enter the name of an artist in the search engine, and it returns a song by that artist that you can save to your library or delete.
+ 
+ ---
 
  Crypto-Tracker
 https://github.com/Angel777-ops/Crypto-Tracker.git
