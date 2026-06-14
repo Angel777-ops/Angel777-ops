@@ -64,7 +64,9 @@ One-Frequency
  Crypto-Tracker
 https://github.com/Angel777-ops/Crypto-Tracker.git
 
+Description: This project is a website for searching real-time data on cryptocurrencies that are trading on the market.
 
+---
 
 
 
