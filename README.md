@@ -75,6 +75,6 @@ Description: This project is a website for searching real-time data on cryptocur
 Ecommerce
 https://github.com/Angel777-ops/Ecommerce.git
 
-Description:
+Description: This project simulates the homepage of an Adidas store.
 
 
