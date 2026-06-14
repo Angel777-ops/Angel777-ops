@@ -53,8 +53,11 @@
 <h1> 🔍 My projects</h1>
   <h3> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20">  Build with react </h3>  
 </p>
+
+One-Frequency
  https://github.com/Angel777-ops/One-Frecuency.git
- 
+
+ Crypto-Tracker
 https://github.com/Angel777-ops/Crypto-Tracker.git
 
 
