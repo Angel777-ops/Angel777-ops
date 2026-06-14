@@ -70,7 +70,7 @@ Description: This project is a website for searching real-time data on cryptocur
 ---
 
 
-<h3>Build with javascript, css, html</h3>
+<h3> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="20">Build with javascript, css, html⬇️ </h3>
 
 Ecommerce
 https://github.com/Angel777-ops/Ecommerce.git
